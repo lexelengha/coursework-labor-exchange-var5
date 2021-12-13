@@ -1,0 +1,15 @@
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\bin\Debug\net5.0\CourseWork(BLL).deps.json
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\bin\Debug\net5.0\CourseWork(BLL).dll
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\bin\Debug\net5.0\ref\CourseWork(BLL).dll
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\bin\Debug\net5.0\CourseWork(BLL).pdb
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\bin\Debug\net5.0\CourseWork(DAL).dll
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\bin\Debug\net5.0\CourseWork(DAL).pdb
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\obj\Debug\net5.0\CourseWork(BLL).csprojAssemblyReference.cache
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\obj\Debug\net5.0\CourseWork(BLL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\obj\Debug\net5.0\CourseWork(BLL).AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\obj\Debug\net5.0\CourseWork(BLL).AssemblyInfo.cs
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\obj\Debug\net5.0\CourseWork(BLL).csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\obj\Debug\net5.0\CourseWork(BLL).csproj.CopyComplete
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\obj\Debug\net5.0\CourseWork(BLL).dll
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\obj\Debug\net5.0\ref\CourseWork(BLL).dll
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(BLL)\obj\Debug\net5.0\CourseWork(BLL).pdb

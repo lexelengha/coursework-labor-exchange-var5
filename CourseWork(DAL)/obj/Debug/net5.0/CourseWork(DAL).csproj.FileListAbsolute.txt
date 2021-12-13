@@ -1,0 +1,12 @@
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\bin\Debug\net5.0\CourseWork(DAL).deps.json
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\bin\Debug\net5.0\CourseWork(DAL).dll
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\bin\Debug\net5.0\ref\CourseWork(DAL).dll
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\bin\Debug\net5.0\CourseWork(DAL).pdb
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\obj\Debug\net5.0\CourseWork(DAL).csprojAssemblyReference.cache
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\obj\Debug\net5.0\CourseWork(DAL).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\obj\Debug\net5.0\CourseWork(DAL).AssemblyInfoInputs.cache
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\obj\Debug\net5.0\CourseWork(DAL).AssemblyInfo.cs
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\obj\Debug\net5.0\CourseWork(DAL).csproj.CoreCompileInputs.cache
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\obj\Debug\net5.0\CourseWork(DAL).dll
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\obj\Debug\net5.0\ref\CourseWork(DAL).dll
+C:\Users\Serhii\Desktop\2 курс\ООП\Курсова_Еленгаупт\CourseWork(DAL)\obj\Debug\net5.0\CourseWork(DAL).pdb

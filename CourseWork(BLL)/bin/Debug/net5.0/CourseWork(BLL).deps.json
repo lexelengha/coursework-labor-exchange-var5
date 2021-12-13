@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CourseWork(BLL)/1.0.0": {
+        "dependencies": {
+          "CourseWork(DAL)": "1.0.0"
+        },
+        "runtime": {
+          "CourseWork(BLL).dll": {}
+        }
+      },
+      "CourseWork(DAL)/1.0.0": {
+        "runtime": {
+          "CourseWork(DAL).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CourseWork(BLL)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CourseWork(DAL)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
