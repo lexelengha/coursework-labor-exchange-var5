@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CourseWork_BLL_
 {
-    class Vacancy
+    public class Vacancy
     {
         private Customer customer { get; set; }
         private string categoryOfWork { get; set; }
